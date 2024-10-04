@@ -18,7 +18,8 @@ export default {
       description: 'Sets The Text Of Accordion"s body',
     },
     onClickBody: {
-      description: 'Function to handle the click om the Accordion"s body',
+      description: 'Function to handle the clicking om the Accordion"s body,
+    },',
     },
   },
 };
