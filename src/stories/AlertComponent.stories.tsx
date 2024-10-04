@@ -23,6 +23,12 @@ export default {
     show: {
       description: 'show or hide the alert ',
     },
+     variant: {
+      description: 'Set the  color of the button',
+    },
+    show: {
+      description: 'show or hide the alert ',
+    },
     removable: {
       description: 'Makes the alert removable or not',
     },
